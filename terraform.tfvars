@@ -1,0 +1,5 @@
+region        = "region name"
+ami_id        = "ami-id"
+instance_type = "t2.micro"
+bucket_name = "bucket-name"
+dynamodb_table_name = "dynamodb-table-name"
